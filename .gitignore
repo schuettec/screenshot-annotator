@@ -1,0 +1,23 @@
+target/
+.settings/
+.classpath
+.project
+bin/
+.gradle
+
+# IntelliJ config files
+.idea/**/*
+!.idea/checkstyle-idea.xml
+!.idea/inspectionProfiles/Project_Default.xml
+classes/**/*
+**/node_modules
+**/*.iml
+**/*.ipr
+**/*.iws
+
+**/build
+out
+*.log
+
+/.gradle/
+.checkstyle
